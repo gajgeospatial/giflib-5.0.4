@@ -1,0 +1,1 @@
+This project should be installed as GIF_DIR with ProjectTool.
